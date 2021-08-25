@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://tucine.xyz:8088/live/gatotv/123456789/355.ts
-
-http://cdn1.anonymousvn.xyz/live/nbcsn/chunks.m3u8
+#EXTVLCOPT:http-user-agent=vitamio_5.0.2_mxl-iptv.tv\r\n
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/e9611666a172e8f3ab46a6c57cf31f075c96b82f/1004_19.m3u8
